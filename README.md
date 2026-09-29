@@ -1,2 +1,2 @@
-# Introduction
-I am pursuing Accounting to build a career at the intersection of financial analysis, business strategy, and regulatory decision-making, with plans to earn my CPA and contribute to complex financial decisions in a global business environment.
+# Personal Statement
+Hello, my name is Samuel Ha and I am a second year student at Rutgers Business School, Honors College majoring in Accounting and Accounting Information Systems with a minor in Philosophy, Politics, and Economics.
