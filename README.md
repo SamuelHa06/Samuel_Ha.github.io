@@ -1,1 +1,1 @@
-Nice to meet you, please see my Github Portfolio below!
+Nice to meet you, please see my Github Portfolio!
