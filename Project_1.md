@@ -1,12 +1,8 @@
+# This project was an assignment in Computer Applications for Business where I was tasked to use HTML to code a website.
+
 [Architecture.html](https://github.com/user-attachments/files/32986097/Architecture.html)
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <Title>Common Architectural Styles in US Homes</Title>
-        <!-- Samuel Ha, Section 38 -->
-        <!-- On my honor, I have neither received nor given any unauthorized assistance on this assignment. -->
-    </head>
     <body>
         <h1>Two Common Architectural Styles in United States Homes</h1>
         <h2>Ranch Style</h2>
