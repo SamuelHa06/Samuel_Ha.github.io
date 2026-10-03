@@ -1,18 +1,10 @@
+# This project was an assignment in Computer Applications for Business where I coded a website discussing colonial-style homes.
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <Title>Colonial Homes</Title>
-        <!-- Samuel Ha, Section 38 -->
-        <!-- On my honor, I have neither received nor given any unauthorized assistance on this assignment. -->
-    </head>
     <body>
         <h1>Colonial Homes</h1>
         <table border="0">
             <tr>
-                <td>
-                    <img src="colonial.jpg" alt="Image of colonial home" height="400" width="500">
-                </td>
                 <td>
                     <p>Colonial-style homes have a long history in the United States, tracing back to the 1600s, and are known for their timeless charm and symmetry. They typically feature two or more stories, evenly spaced windows, and a centered front door, giving them a classic and balanced look. The style offers a sense of tradition and formality, while the multi-level layout makes it easy to separate living and sleeping spaces. Many people love colonials for their roomy interiors, large fireplaces, and the feeling of stability they bring—making them a favorite among families who want both space and character.</p>
                 </td>
