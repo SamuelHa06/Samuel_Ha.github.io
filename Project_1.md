@@ -1,6 +1,3 @@
----
-title: Project 1
----
 # This project was an assignment in Computer Applications for Business where I was tasked to use HTML to code a website.
 
 [Architecture.html](https://github.com/user-attachments/files/32986097/Architecture.html)
